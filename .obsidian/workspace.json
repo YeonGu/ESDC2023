@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e82473a935527c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "aae3acb33071205e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df7217a5f259da47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0a8197af77be04c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5544783d72904997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fc07e09f659c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13d84dcc3617b716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07c32d9ef4f5d396",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe443e758247972a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3bb369dd1509e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6857a7decb371a73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开发日志.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "362d7947962eeee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "开发日志.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4696d1a505bff457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1a564350fbf5add",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "开发日志.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "df7217a5f259da47",
+  "lastOpenFiles": [
+    "开发日志.md",
+    "KLM900-926/KLM900Demo_GUI/~$M900模块DLL 文档分析前言.doc",
+    "KLM900-926/中文界面/demo2.01/RFID_Reader_Csharp.exe",
+    "KLM900-926/中文界面/demo2.01/RFID_Reader_Com.dll",
+    "KLM900-926/中文界面/demo2.01/RFID_Reader_Cmds.dll",
+    "KLM900-926/中文界面/demo2.01/BarChart.dll",
+    "KLM900-926/中文界面/demo2.01",
+    "KLM900-926/中文界面",
+    "KLM900-926/KLM900Demo_GUI/读到标签的界面会有一个绿的圆出现.jpg",
+    "KLM900-926/KLM900Demo_GUI/没有读到标签的界面.jpg",
+    "KLM900-926/KLM900Demo_GUI/操作流程图.JPG",
+    "KLM900-926/KLM900Demo_GUI/Thumbs.db",
+    "KLM900-926/KLM900Demo_GUI/RFID_Reader_GUI_V2.0.exe",
+    "KLM900-926/KLM900Demo_GUI/RFID_Reader_Com.dll",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xxhdpi/ic_launcher.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xhdpi/ic_launcher.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/uhf_launcher.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-mdpi/ic_launcher.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/ic_launcher.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/min.9.png",
+    "Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/plus.9.png"
+  ]
+}

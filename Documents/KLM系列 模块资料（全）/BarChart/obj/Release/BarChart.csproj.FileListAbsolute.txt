@@ -1,0 +1,13 @@
+H:\work\TestReaderLib\BarChart\bin\Release\BarChart.dll
+H:\work\TestReaderLib\BarChart\bin\Release\BarChart.pdb
+H:\work\TestReaderLib\BarChart\obj\Release\BarChart.HBarChart.resources
+H:\work\TestReaderLib\BarChart\obj\Release\BarChart.csproj.GenerateResource.Cache
+H:\work\TestReaderLib\BarChart\obj\Release\BarChart.dll
+H:\work\TestReaderLib\BarChart\obj\Release\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\bin\Release\BarChart.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\bin\Release\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Release\ResolveAssemblyReference.cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Release\BarChart.HBarChart.resources
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Release\BarChart.csproj.GenerateResource.Cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Release\BarChart.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Release\BarChart.pdb

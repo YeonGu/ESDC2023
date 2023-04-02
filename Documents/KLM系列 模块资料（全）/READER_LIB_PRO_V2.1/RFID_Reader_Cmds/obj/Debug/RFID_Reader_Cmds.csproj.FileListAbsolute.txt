@@ -1,0 +1,9 @@
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Cmds.XML
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Cmds.dll
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Cmds.pdb
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Com.dll
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Com.pdb
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\bin\Debug\RFID_Reader_Com.xml
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\obj\Debug\RFID_Reader_Cmds.csprojResolveAssemblyReference.cache
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\obj\Debug\RFID_Reader_Cmds.dll
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Cmds\obj\Debug\RFID_Reader_Cmds.pdb

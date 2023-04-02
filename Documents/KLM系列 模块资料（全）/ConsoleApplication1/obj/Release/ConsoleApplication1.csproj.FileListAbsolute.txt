@@ -1,0 +1,5 @@
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

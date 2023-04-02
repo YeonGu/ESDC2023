@@ -1,0 +1,91 @@
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csprojResolveAssemblyReference.cache
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+H:\work\vs2010_workspace\C_sharp\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csprojResolveAssemblyReference.cache
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+H:\work\for_customer\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+H:\work\for_customer\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Properties.Resources.resources
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csprojResolveAssemblyReference.cache
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+H:\work\TestReaderLib\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Properties.Resources.resources
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\BarChart.dll
+H:\work\TestReaderLib\TestReaderLib\bin\Debug\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\BarChart.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Properties.Resources.resources
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+F:\GUI3\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+F:\GUI3\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+F:\GUI3\TestReaderLib\bin\Debug\BarChart.dll
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+F:\GUI3\TestReaderLib\bin\Debug\BarChart.pdb
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+F:\GUI3\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+F:\GUI3\TestReaderLib\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GUI3\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+F:\GUI3\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Properties.Resources.resources
+F:\GUI3\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.exe
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.pdb
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Csharp.exe
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Csharp.pdb
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\BarChart.dll
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Cmds.dll
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Com.dll
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\BarChart.pdb
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Cmds.pdb
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Cmds.xml
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Com.pdb
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\bin\Debug\RFID_Reader_Com.xml
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\TestReaderLib.csprojResolveAssemblyReference.cache
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Form1.resources
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\RFID_Reader_Csharp.Properties.Resources.resources
+\\Zsk_pc\恺乐读写器\恺乐读写器\小模块\新模块资料（全）\模块资料（全）\TestReaderLib\obj\x86\Debug\TestReaderLib.csproj.GenerateResource.Cache

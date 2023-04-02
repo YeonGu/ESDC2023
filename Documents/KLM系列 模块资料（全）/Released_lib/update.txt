@@ -1,0 +1,23 @@
+update:2014-05-22
+1.change the protocol. PC+EPC is excluded from the command defination.
+2.Add NXP G2X Tag commands(ChangeConfig, ReadProtect, ChangeEAS and EAS Alarm).
+------------------------------------------------------------------------------------------
+update:2014-01-09
+1.add some new command defination:
+  IO Control, Scan Jammer, Scan RSSI, Insert FHSS RF Channel, Set Sleep Mode, NV Configuration Command.
+2.complete some documents
+------------------------------------------------------------------------------------------
+update:2013-10-09
+1.add scan jammer & scan RSSI command defination
+2.add get module infomation defination
+------------------------------------------------------------------------------------------
+update:2013-09-23
+1.change write command dl field from byte length to word length
+------------------------------------------------------------------------------------------
+update:2013-09-10
+1.change Fail types defination in RFID_Reader_Cmds.dll
+2.add Error Code defination in RFID_Reader_Cmds.dll
+------------------------------------------------------------------------------------------
+update:2013-09-06
+1.add set modem and get modem parameter function
+2.correct the spelling error of FHSS.

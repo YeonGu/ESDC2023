@@ -1,0 +1,26 @@
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\bin\Debug\BarChart.dll
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\bin\Debug\BarChart.pdb
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\obj\Debug\ResolveAssemblyReference.cache
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\obj\Debug\BarChart.HBarChart.resources
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\obj\Debug\BarChart.dll
+D:\BackUp\我的文档\刘利君\code\不错的chart\CPBarChart\BarChart\obj\Debug\BarChart.pdb
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\bin\Debug\BarChart.dll
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\bin\Debug\BarChart.pdb
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\obj\Debug\BarChart.HBarChart.resources
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\obj\Debug\BarChart.dll
+H:\forlearn\CSharp\BarChart\CPBarChart\BarChart\obj\Debug\BarChart.pdb
+H:\work\TestReaderLib\BarChart\bin\Debug\BarChart.dll
+H:\work\TestReaderLib\BarChart\bin\Debug\BarChart.pdb
+H:\work\TestReaderLib\BarChart\obj\Debug\BarChart.HBarChart.resources
+H:\work\TestReaderLib\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+H:\work\TestReaderLib\BarChart\obj\Debug\BarChart.dll
+H:\work\TestReaderLib\BarChart\obj\Debug\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\bin\Debug\BarChart.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\bin\Debug\BarChart.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Debug\ResolveAssemblyReference.cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Debug\BarChart.HBarChart.resources
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Debug\BarChart.csproj.GenerateResource.Cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Debug\BarChart.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\BarChart\obj\Debug\BarChart.pdb

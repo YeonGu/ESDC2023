@@ -1,0 +1,8 @@
+bin\Debug\BarChart.dll
+bin\Debug\BarChart.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BarChart.BarChart.bmp
+obj\Debug\BarChart.HBarChart.resources
+obj\Debug\BarChart.csproj.GenerateResource.Cache
+obj\Debug\BarChart.dll
+obj\Debug\BarChart.pdb

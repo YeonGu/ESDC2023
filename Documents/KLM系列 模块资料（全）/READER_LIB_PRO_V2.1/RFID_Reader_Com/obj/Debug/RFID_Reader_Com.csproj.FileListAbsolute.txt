@@ -1,0 +1,5 @@
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Com\bin\Debug\RFID_Reader_Com.dll
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Com\bin\Debug\RFID_Reader_Com.pdb
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Com\obj\Debug\RFID_Reader_Com.csprojResolveAssemblyReference.cache
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Com\obj\Debug\RFID_Reader_Com.dll
+H:\work\RFID_Reader_Lib\for_code_release\READER_LIB_PRO\RFID_Reader_Com\obj\Debug\RFID_Reader_Com.pdb

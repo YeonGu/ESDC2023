@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string-array name="arr_lockType">
+    <item >Open</item>
+    <item >Lock</item>
+    <item >Open forever</item>
+    <item >Lock forever</item>
+    </string-array>  
+   <string-array name="arr_sensitivity">
+    <item >High</item>
+    <item >Mid</item>
+    <item >Low</item>
+    <item >Very Low</item>
+    </string-array>  
+    <string-array name="arr_area">
+    <item >China2</item>
+    <item >USA</item>
+    <item >Europe</item>
+    <item >China1</item>
+    <item >Korea</item>
+    </string-array>  
+</resources>

@@ -1,0 +1,6 @@
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\bin\Release\RFID_Reader_Com.XML
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\bin\Release\RFID_Reader_Com.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\bin\Release\RFID_Reader_Com.pdb
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\obj\Release\ResolveAssemblyReference.cache
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\obj\Release\RFID_Reader_Com.dll
+F:\SDK V2.0\SDK V2.0\GUI\Source Code\READER_LIB_PRO_V2.1\RFID_Reader_Com\obj\Release\RFID_Reader_Com.pdb

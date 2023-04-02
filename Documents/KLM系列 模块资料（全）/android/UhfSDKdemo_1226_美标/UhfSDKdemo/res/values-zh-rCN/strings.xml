@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UHF测试程序</string>
+    <string name="connect">连接模块</string>
+    <string name="id">序号</string>
+    <string name="count">次数</string>
+    <string name="inventory">开始盘存</string>
+     <string name="stop_inventory">停止盘存</string>
+    <string name="clear">清空</string>
+    <string name="membank">数据区:</string>
+	<string name="accesspassword">访问密码:</string>
+	<string name="addr">起始地址:</string>
+	<string name="len">长度(word):</string>
+	<string name="read">读标签</string>
+	<string name="write">写标签</string>
+	<string name="writedata">写数据(HEX):</string>
+	<string name="locktype">锁定类型</string>
+	<string name="locktag">锁定标签</string>
+	<string name="kill">销毁标签</string>
+	<string name="killpassword">销毁密码</string>
+	<string name="readdata">读数据</string>
+	<string name="back">返 回</string>
+    <string name="parameterSetting">模块参数设置</string>
+    <string name="sensitivity">灵敏度</string>
+    <string name="set">设置</string>
+    <string name="rfPower">RF功率</string>
+    <string name="workArea">工作区域</string>
+    <string name="freqSetting">设置频率</string>
+    <string name="china2Freq">中国2频率范围：920125kHz~924875kHz</string>
+    <string name="usaFreq">美国频率范围：902250kHz~927750kHz</string>
+    <string name="euFreq">欧洲频率范围：865100kHz~867900kHz</string>
+    <string name="china1Freq">中国1频率范围：840125kHz~844875kHz</string>
+    <string name="koreaFreq">韩国频率范围：917700kHz~923300kHz</string>
+    <string name="setSuccess">设置成功</string>
+    <string name="freqNotNull">频率数值不能为空</string>
+</resources>
