@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2c294a00fad7664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Documents/和new bing的对话/关于模块通信，数据解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发日志.md",
+                "file": "1Documents/和new bing的对话/关于模块通信，数据解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发日志.md",
+                "file": "1Documents/和new bing的对话/关于模块通信，数据解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发日志.md"
+                "file": "1Documents/和new bing的对话/关于模块通信，数据解析.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "df7217a5f259da47",
+  "active": "b2c294a00fad7664",
   "lastOpenFiles": [
+    "2Drivers/RFID_Reader.c",
+    "2Drivers/RFID_Reader.h",
+    "2Drivers",
+    "新建文件夹",
+    "开发日志.md",
+    "1Documents/和new bing的对话/关于模块通信，数据解析.md",
     "9报名等资料/电子科学与工程学院D2222213基于RFID和激光雷达导航技术的分布式图书馆智慧终端意法.docx",
     "9报名等资料/意法半导体年度峰会视察小队补充资料.xlsx",
     "9报名等资料",
@@ -155,10 +174,6 @@
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/SettingPower.class",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/SettingActivity$1.class",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/SettingActivity.class",
-    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/SettingActivity$3.class",
-    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/SettingActivity$2.class",
-    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/ScreenStateReceiver.class",
-    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/classes/com/example/uhfsdkdemo/R$style.class",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xxhdpi/ic_launcher.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xhdpi/ic_launcher.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-mdpi/ic_launcher.png",
@@ -168,7 +183,6 @@
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/compose_icon_nextlevel.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-hdpi/ic_launcher.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/res/drawable-xhdpi/ic_launcher.png",
-    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/res/drawable-mdpi/ic_launcher.png",
-    "开发日志.md"
+    "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/res/drawable-mdpi/ic_launcher.png"
   ]
 }
