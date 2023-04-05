@@ -29,7 +29,7 @@ typedef struct {
     uint8_t tail;  // 帧尾，固定为7E
 } RFID_frame_t;
 
-// 移植用的接口
+// 移植用的接口，返回一个UART缓冲区读取到的byte
 uint8_t UART_read_byte() {
     return 0;
 }

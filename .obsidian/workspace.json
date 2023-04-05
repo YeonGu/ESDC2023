@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Documents/关于技术和思路/关于UART的缓冲区.md",
+                "file": "1Documents/关于技术和思路/关于模块通信，数据解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9caba46631298e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Documents/关于技术和思路/关于模块用c++重写.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Documents/关于技术和思路/关于UART的缓冲区.md",
+                "file": "1Documents/关于技术和思路/关于模块用c++重写.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Documents/关于技术和思路/关于UART的缓冲区.md",
+                "file": "1Documents/关于技术和思路/关于模块用c++重写.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Documents/关于技术和思路/关于UART的缓冲区.md"
+                "file": "1Documents/关于技术和思路/关于模块用c++重写.md"
               }
             }
           }
@@ -171,14 +183,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c0ea79d0e2daf4e",
+  "active": "1f9caba46631298e",
   "lastOpenFiles": [
+    "1Documents/关于技术和思路/关于模块通信，数据解析.md",
+    "1Documents/关于技术和思路/关于模块用c++重写.md",
+    "1Documents/关于技术和思路/关于UART的缓冲区.md",
     "2Drivers/RFID_Module.cpp",
     "2Drivers/RFID_Module.h",
     "2Drivers/RFID_Msg_Resolve.h",
     "2Drivers/RFID_Msg_Resolve.c",
-    "1Documents/关于技术和思路/关于模块通信，数据解析.md",
-    "1Documents/关于技术和思路/关于UART的缓冲区.md",
     "2Drivers/RFID_Reader.c",
     "2Drivers/RFID_Reader.h",
     "2Drivers",
@@ -186,7 +199,6 @@
     "开发日志.md",
     "9报名等资料/电子科学与工程学院D2222213基于RFID和激光雷达导航技术的分布式图书馆智慧终端意法.docx",
     "9报名等资料/意法半导体年度峰会视察小队补充资料.xlsx",
-    "9报名等资料",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xxhdpi/ic_launcher.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-xhdpi/ic_launcher.png",
     "1Documents/KLM系列 模块资料（全）/android/UhfSDKdemo_1226_美标/UhfSDKdemo/bin/res/drawable-mdpi/ic_launcher.png",
