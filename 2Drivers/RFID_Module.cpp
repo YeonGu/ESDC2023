@@ -19,6 +19,9 @@
 #include <stdint.h>
 #include <vector>
 
+#define HEAD_BYTE 0xBB
+#define TAIL_BYTE 0x7E
+
 class RFIDReaderModule {
   private:
 };
@@ -55,6 +58,9 @@ class RFIDFrameInfo {
     }
 
     const std::vector<uint8_t> FrameInfo() const {
+        if (!m_state) {
+            throw "Invalid data";
+        }
         return m_data;
     }
 };
@@ -77,35 +83,35 @@ bool RFIDFrameInfo::RfidResolveFrame() {
 
     // 继续读取地址、命令、长度信息。做一步检查一步。
     m_addr = UartReadNextByte();
-    if (m_addr == 0x7E)
+    if (m_addr == TAIL_BYTE)
         return false;
 
     m_cmd = UartReadNextByte();
-    if (m_cmd == 0x7E)
+    if (m_cmd == TAIL_BYTE)
         return false;
 
     m_len = UartReadNextByte();
-    if (m_len == 0x7E)
+    if (m_len == TAIL_BYTE)
         return false;
     m_len <<= 8;
     m_len += UartReadNextByte();
-    if ((m_addr & 0xFF) == 0x7E)
+    if ((m_addr & 0xFF) == TAIL_BYTE)
         return false;
 
     // 读取卡号
     for (uint16_t i = 0; i < m_len; i++) {
         auto nextByte = UartReadNextByte();
-        if (nextByte == 0x7E)
+        if (nextByte == TAIL_BYTE)
             return false;
         m_data.emplace_back(nextByte);
     }
 
     m_cs = UartReadNextByte();
-    if (m_cmd == 0x7E)
+    if (m_cmd == TAIL_BYTE)
         return false;
 
     m_tail = UartReadNextByte();
-    while (m_tail != 0x7E) {
+    while (m_tail != TAIL_BYTE) {
         normalFrame = false;
         m_tail = UartReadNextByte();
     }
@@ -133,7 +139,7 @@ uint8_t RFIDFrameInfo::UartReadNextByte() {
 
 bool RFIDFrameInfo::RfidCheckFrame() {
     // 检查帧头、地址、命令和帧尾是否正确
-    if (m_head != 0xBB || m_addr != 0x02 || m_cmd != 0x22 || m_tail != 0x7E) {
+    if (m_head != 0xBB || m_addr != 0x02 || m_cmd != 0x22 || m_tail != TAIL_BYTE) {
         return false; // 返回错误标志
     }
 
