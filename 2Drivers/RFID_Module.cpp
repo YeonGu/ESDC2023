@@ -27,7 +27,7 @@ class RFIDReaderModule {
 };
 
 /**
- * @brief RFID帧类。基本行为是通过一个 std::list<uint8_t>& _frameInfoBuffer 初始化。之后RFIDFrameInfo会读取缓冲区，解析报文信息。
+ * @brief RFID帧类。基本行为是通过一个 std::queue<uint8_t>& m_uart_buffer 初始化。之后RFIDFrameInfo会读取缓冲区，解析报文信息。
  *
  */
 class RFIDFrameInfo {
